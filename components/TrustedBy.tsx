@@ -13,6 +13,8 @@ export default function TrustedBy({
   accent?: string;
   label?: string;
 }) {
+  if (clients.length === 0) return null;
+
   return (
     <div className="flex flex-col md:flex-row md:items-center gap-y-4 gap-x-8 md:flex-wrap py-5 border-b border-white/[0.06]">
       <span className="text-[9px] font-mono tracking-[0.4em] uppercase shrink-0" style={{ color: accent }}>

@@ -55,32 +55,6 @@ Web, computador e celular, sobre o mesmo servidor. E rodando na sua casa, se voc
   },
   {
     id: "LC-002",
-    name: "Yondra",
-    blurb: {
-      "en-us": `Yondra is a streamlined project management platform built for modern dev teams — think Jira, without the bloat.
-Track issues, plan sprints, and ship faster with an interface that gets out of your way. From backlog grooming to deployment, Yondra keeps your team aligned and your workflow moving.
-Built for teams who actually ship.`,
-      "pt-br": `O Yondra é uma plataforma enxuta de gestão de projetos feita para times de desenvolvimento modernos — como o Jira, sem o excesso.
-Acompanhe tarefas, planeje sprints e entregue mais rápido com uma interface que sai do seu caminho. Do refinamento do backlog ao deploy, o Yondra mantém seu time alinhado e o fluxo em movimento.
-Feito para times que realmente entregam.`,
-    },
-    category: { "en-us": "Web · Product", "pt-br": "Web · Produto" },
-    year: "2026",
-    status: "IN BUILD",
-    icon: "/yondra/yondra.png",
-    url: "https://www.yondra.net",
-    images: ["/yondra/01.png", "/yondra/02.png", "/yondra/03.png", "/yondra/04.png", "/yondra/05.png"],
-    details: {
-      "en-us": `Yondra is a streamlined project management platform built for modern dev teams — think Jira, without the bloat.
-Track issues, plan sprints, and ship faster with an interface that gets out of your way. From backlog grooming to deployment, Yondra keeps your team aligned and your workflow moving.
-Built for teams who actually ship.`,
-      "pt-br": `O Yondra é uma plataforma enxuta de gestão de projetos feita para times de desenvolvimento modernos — como o Jira, sem o excesso.
-Acompanhe tarefas, planeje sprints e entregue mais rápido com uma interface que sai do seu caminho. Do refinamento do backlog ao deploy, o Yondra mantém seu time alinhado e o fluxo em movimento.
-Feito para times que realmente entregam.`,
-    },
-  },
-  {
-    id: "LC-003",
     name: "Melea",
     blurb: {
       "en-us": `Melea is a management system for veterinary clinics, built after a year of listening to veterinarians, receptionists, and clinic owners.

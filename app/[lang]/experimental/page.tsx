@@ -19,56 +19,7 @@ type ExperimentSource = Omit<Project, "blurb" | "category" | "details"> & {
   details: Localized;
 };
 
-const experiments: ExperimentSource[] = [
-  {
-    id: "EX-001",
-    name: "Sanctuary",
-    blurb: {
-      "en-us": "A Diablo fan-made site — lore, builds, and worldbuilding from the world of Sanctuary.",
-      "pt-br": "Um site fan-made de Diablo — lore, builds e worldbuilding do universo de Santuário.",
-    },
-    category: { "en-us": "Web · Fan Project", "pt-br": "Web · Projeto Fã" },
-    year: "2026",
-    status: "LIVE",
-    icon: "/sanctuary/logo.png",
-    url: "https://diablo.serious-sam.dev",
-    images: [
-      "/sanctuary/home.png",
-      "/sanctuary/history.png",
-      "/sanctuary/demons.png",
-      "/sanctuary/characters.png",
-      "/sanctuary/book.png",
-    ],
-    details: {
-      "en-us": "A Diablo fan-made site — lore, builds, and worldbuilding from the world of Sanctuary.",
-      "pt-br": "Um site fan-made de Diablo — lore, builds e worldbuilding do universo de Santuário.",
-    },
-  },
-  {
-    id: "EX-002",
-    name: "Vortex OS",
-    blurb: {
-      "en-us": "A real operating system that runs entirely in your browser.",
-      "pt-br": "Um sistema operacional real que roda inteiramente no seu navegador.",
-    },
-    category: { "en-us": "Web · Operating System", "pt-br": "Web · Sistema Operacional" },
-    year: "2024",
-    status: "LIVE",
-    icon: "/vortex/logo.png",
-    url: "https://vortex.serious-sam.dev",
-    images: [
-      "/vortex/home.png",
-      "/vortex/control-panel.png",
-      "/vortex/terminal.png",
-      "/vortex/manager.png",
-      "/vortex/code.png",
-    ],
-    details: {
-      "en-us": "A real operating system that runs entirely in your browser.",
-      "pt-br": "Um sistema operacional real que roda inteiramente no seu navegador.",
-    },
-  },
-];
+const experiments: ExperimentSource[] = [];
 
 export default async function ExperimentalPage({ params }: { params: Promise<{ lang: string }> }) {
   const { lang } = await params;

@@ -44,21 +44,6 @@ Lidero nossa estratégia de testes automatizados (UI, E2E e API) e os pipelines 
   },
   {
     id: "LC-P02",
-    name: "Rafael Godoy",
-    role: { "en-us": "Founder & Senior Software Engineer", "pt-br": "Fundador & Engenheiro de Software Sênior" },
-    bio: {
-      "en-us": "With 8 years of experience as a software engineer, I specialize in backend development while maintaining solid skills across web technologies, including PHP, Node.js, Golang, Vue.js, React, and React Native. My career has covered diverse domains such as ERP systems at EDUXE, marketplaces, chat platforms, and mobile development at Turno. I also gained experience in the lottery and prediction games industry with blockchain at Avem.",
-      "pt-br": "Com 8 anos de experiência como engenheiro de software, sou especializado em desenvolvimento backend, mantendo sólidas habilidades em tecnologias web, incluindo PHP, Node.js, Golang, Vue.js, React e React Native. Minha carreira passou por domínios diversos, como sistemas ERP na EDUXE, marketplaces, plataformas de chat e desenvolvimento mobile na Turno. Também ganhei experiência no setor de loterias e jogos de previsão com blockchain na Avem.",
-    },
-    tags: ["Engineering", "Architecture", "Backend"],
-    since: "2026",
-    photo: "/rafael.jpg",
-    initials: "RG",
-    linkedin: "https://www.linkedin.com/in/rafael-ls-godoy",
-    github: "https://github.com/Rarfael",
-  },
-  {
-    id: "LC-P03",
     name: "Rudney Forti",
     role: { "en-us": "Founder & Senior Business", "pt-br": "Fundador & Sênior de Negócios" },
     bio: {
@@ -73,21 +58,6 @@ Formação em Redes, Sistemas para Internet e Engenharia da Computação, com pr
     initials: "RF",
     linkedin: "https://www.linkedin.com/in/rudney-forti",
     github: "https://github.com/RudneyForti",
-  },
-  {
-    id: "LC-P04",
-    name: "Samir Antoun Aniz",
-    role: { "en-us": "Senior Founder & Senior Software Engineer", "pt-br": "Fundador Sênior & Engenheiro de Software Sênior" },
-    bio: {
-      "en-us": "Fullstack Developer and Software Architect with over 8 years of experience delivering robust and scalable systems for companies in Brazil and abroad. Solid background in both backend (Java, PHP) and modern frontend (React, Vue.js), working across monolithic and microservices architectures. Experienced in cloud and on-premises projects, always focused on code quality, security, and performance. Skilled at translating business needs into clear technical solutions, managing the full development lifecycle from design to deployment.",
-      "pt-br": "Desenvolvedor Fullstack e Arquiteto de Software com mais de 8 anos de experiência entregando sistemas robustos e escaláveis para empresas no Brasil e no exterior. Sólida base tanto em backend (Java, PHP) quanto em frontend moderno (React, Vue.js), atuando em arquiteturas monolíticas e de microsserviços. Experiência em projetos em nuvem e on-premises, sempre com foco em qualidade de código, segurança e performance. Habilidade em traduzir necessidades de negócio em soluções técnicas claras, conduzindo todo o ciclo de desenvolvimento, do design ao deploy.",
-    },
-    tags: ["Engineering", "Product", "Leadership"],
-    since: "2026",
-    photo: "/sam.jpg",
-    initials: "SA",
-    linkedin: "https://www.linkedin.com/in/samir-antoun-freitas-aniz",
-    github: "https://github.com/Serious-Sam97",
   },
 ];
 
