@@ -84,7 +84,7 @@ Feito por quem senta na cadeira da sala de espera e olha o balcão.`,
     year: "2026",
     status: "IN BUILD",
     icon: "/melea/melea.png",
-    url: "https://www.melea.com.br",
+    url: "https://melea.com.br",
     images: ["/melea/01.jpeg", "/melea/02.jpeg", "/melea/03.jpeg", "/melea/04.jpeg", "/melea/05.jpeg", "/melea/06.jpeg", "/melea/07.jpeg", ],
     details: {
       "en-us": `Melea is a management system for veterinary clinics, built after a year of listening to veterinarians, receptionists, and clinic owners.
